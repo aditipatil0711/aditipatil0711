@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer** with experience in **AI, Machine Learning, Full-Stack Development, Cloud, and DevOps**. I’ve had the opportunity to work at **Illumio, Citigroup, Nife Labs, and Tata Communications**, where I tackled **cloud scalability, distributed systems, AI-driven solutions, and large-scale software development**.
 
-## 💡 Expertise:
+## 💡 Technologies I have worked on:
 
 - **🤖 AI & Machine Learning** – NLP, Deep Learning, Computer Vision  
 - **☁️ Cloud & DevOps** – Kubernetes, AWS, Azure, CI/CD  
